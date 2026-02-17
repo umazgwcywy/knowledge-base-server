@@ -1,6 +1,6 @@
 {
   "name": "knowledge-base-server",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "description": "Make every AI agent you use smarter. Persistent memory with SQLite FTS5, MCP server, Obsidian sync, and self-learning intelligence pipeline.",
   "main": "src/index.js",
   "scripts": {
